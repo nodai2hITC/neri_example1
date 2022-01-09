@@ -6,7 +6,7 @@ Ruby + DXRuby で作られたサンプルゲームです。
 
 ### 実行ファイル版
 
-リリースページから「ほしあつめ.zip」をダウンロード＆展開し、「ほしあつめ.exe」を実行してください。
+[リリースページ](https://github.com/nodai2hITC/neri_example1/releases/tag/v1.0.0)から「starcollector.zip」をダウンロード＆展開し、「ほしあつめ.exe」を実行してください。
 
 ### ソースコード版
 
